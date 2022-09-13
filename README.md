@@ -1,6 +1,6 @@
 # Statistical-Modeling-of-Life-Expectancy-data-R-
 
-This project is a comprehensive statistical analysis of running Linear regression of the Life Expectancy (WHO) data set on Kaggle. 
+This project is a comprehensive statistical analysis of running Linear regression of the [Life Expectancy (WHO)](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who) data set on Kaggle. 
 
 The analysis aims to determine the main predictors of life expectancy based on a number of economic and health factors provided in the dataset. 
 
